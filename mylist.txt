@@ -18,3 +18,4 @@
 !-----------------------General advert blocking filters-----------------------!
 ||photo.tmrmixer.cn^
 ||nuxyz.cn^
+||nsy.hnzyfs.com^
