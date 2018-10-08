@@ -24,3 +24,4 @@
 ||img.ktvgz.cn^
 ||h.eweot.cn^
 ||t.fv99.com^
+||gss0.bdstatic.com/*/nvn/*.js
