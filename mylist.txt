@@ -26,3 +26,4 @@ m.baidu.com##img[class="banner"]
 ||img.ktvgz.cn^
 ||h.eweot.cn^
 ||t.fv99.com^
+m.booktxt.net##div[class="dTBJjALjWc"]
