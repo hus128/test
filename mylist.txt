@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: 4ihVFVJPdibTSRCv0czgyA
-! Version: 201904280900
+! Version: 201904281000
 ! Title: mylist
 ! EasyList China and EasyList combination subscription
 ! Last modified: 28 Apr 2019 09:00 +0800
@@ -16,8 +16,6 @@
 ! or via e-mail (none@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
-m.baidu.com##div[class="entry-wrap"]
-m.baidu.com##img[class="banner"]
 ||photo.tmrmixer.cn^
 ||nuxyz.cn^
 ||nsy.hnzyfs.com^
@@ -29,3 +27,7 @@ m.baidu.com##img[class="banner"]
 ||gzgceson.com^
 ||yuoimg.com^
 m.booktxt.net##div[class="dTBJjALjWc"]
+m.baidu.com##div[class="entry-wrap"]
+m.baidu.com##img[class="banner"]
+www.jianxiangyun.com##div[class*="QkmkRyUwDKjS"]
+
