@@ -30,4 +30,4 @@ m.booktxt.net##div[class="dTBJjALjWc"]
 m.baidu.com##div[class="entry-wrap"]
 m.baidu.com##img[class="banner"]
 www.jianxiangyun.com##div[class*="QkmkRyUwDKjS"]
-
+m.meijuniao.com##iframe
