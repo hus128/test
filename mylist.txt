@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Checksum: 4ihVFVJPdibTSRCv0czgyA
-! Version: 201904291000
+! Version: 201904290900
 ! Title: mylist
 ! EasyList China and EasyList combination subscription
 ! Last modified: 29 Apr 2019 09:00 +0800
