@@ -27,6 +27,8 @@
 ||gzgceson.com^
 ||yuoimg.com^
 ||gze3.cn^
+||lzspf.com^
+||lqrzc.com^
 m.booktxt.net##div[class="dTBJjALjWc"]
 m.baidu.com##div[class="entry-wrap"]
 m.baidu.com##img[class="banner"]
