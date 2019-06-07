@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Checksum: 4ihVFVJPdibTSRCv0czgyA
-! Version: 201905261400
+! Version: 201905271400
 ! Title: mylist
 ! EasyList China and EasyList combination subscription
-! Last modified: 26 May 2019 14:00 +0800
+! Last modified: 27 May 2019 14:00 +0800
 ! Expires: 30 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 !
@@ -34,6 +34,8 @@
 ||nkjfzq43034.cn^
 ||7l8qa.cn^
 ||siyuanmall.com^
+||aysmj.com^
+||jqhxyy.com^
 m.booktxt.net##div[class="dTBJjALjWc"]
 m.baidu.com##div[class="entry-wrap"]
 m.baidu.com##img[class="banner"]
