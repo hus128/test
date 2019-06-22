@@ -38,6 +38,7 @@
 ||jqhxyy.com^
 ||z5q5hxwjr.com^
 ||taishengjd.cn^
+||jsyyxx.com^
 ||cnzz.com^
 biqugeso.com/*/js/page_foot.js
 biqugeso.com/*/js/page_cpc.js
